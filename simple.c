@@ -1,6 +1,4 @@
-/** A simple kalman filter example by Adrian Boeing 
- www.adrianboeing.com 
- */ 
+
 
 #include <stdio.h>
 #include <stdlib.h>
